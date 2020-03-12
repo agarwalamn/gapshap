@@ -46,7 +46,7 @@ Client Side :
  - [ ] Implement localStorage in React to store messages.
  - [ ] Add backend to store user information
  - [ ] Make android app [ using React Native most probably ]
- - [ ] try to implement read receipt and user is typing
+ - [/] try to implement read receipt and user is typing
  
  
 
