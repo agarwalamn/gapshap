@@ -45,8 +45,8 @@ Client Side :
  - [ ] Add feature to see users in lobby
  - [ ] Implement localStorage in React to store messages.
  - [ ] Add backend to store user information
- - [ ] Make android app [ using React Native most probably ]
- - [x] try to implement read receipt and user is typing
+ - [x] Make android app [ using React Native most probably ]
+ - [ ] try to implement read receipt and user is typing
  
  
 
