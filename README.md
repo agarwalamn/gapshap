@@ -10,6 +10,7 @@ Checkout on [https://5df8cee521353501881b507c--inspiring-clarke-25980c.netlify.c
  - CORS(cross-origin resource sharing) [ as i was stuck in error due to it]
  - transaction between react and express
  - some concepts of NODE.JS
+ - Native application development using react native
 
 ## Packages/libraries/frameworks used:
 
