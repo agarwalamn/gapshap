@@ -25,7 +25,8 @@ For Client side:
 
  1. Reactjs
  2. react-router-dom
- 3. react-emoji [for adding emoji ]
+ 3. react-emoji [ for adding emoji ]
+ 4. Android App in React Native [ bootstraped using react-native CLI ] 
 
 Hosted on:
 
