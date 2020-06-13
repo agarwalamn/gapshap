@@ -1,47 +1,43 @@
-# **Gapshap**
+<div align="center">
+<h3>Gapshap</h3>
+  <p>
+    <b>Lets chat🤫</b>
+  </p>
+</div>
 
 A chatting application made while learning socket.io.
-
-Checkout on [https://5df8cee521353501881b507c--inspiring-clarke-25980c.netlify.com](https://5df8cee521353501881b507c--inspiring-clarke-25980c.netlify.com)
+Checkout on [netlify](https://5df8cee521353501881b507c--inspiring-clarke-25980c.netlify.com)
 
 > It was learning experience for me as I got to learn so many new things like :
 
- - Socket.io
+ - <b>Socket.io</b>
  - CORS(cross-origin resource sharing) [ as i was stuck in error due to it]
- - transaction between react and express
- - some concepts of NODE.JS
- - Native application development using react native
+ - Transaction between react and express
+ - Basic concepts of NODE.JS
 
-## Packages/libraries/frameworks used:
+## Packages/libraries/frameworks used 🛃
 
-For Server side:
+### Server side :
  1. Express
  2. Node.js
  3. Socket.io
  4. cors [ solve the problem related to cross-origin resource sharing ]
  5. nodemon [ to make hot reloads ]
 
-For Client side:
+### Client side :
 
  1. Reactjs
  2. react-router-dom
- 3. react-emoji [ for adding emoji ]
- 4. Android App in React Native [ bootstraped using react-native CLI ] 
+ 3. react-emoji [for adding emoji ]
 
-Hosted on:
+### Hosted on :
+ - Heroku [ Server ]
+ - Netlify [ Client ]
 
-Server side :
-
- - Heroku
-
-Client Side :
-
- - Netlify
-
-## Preview:
+## Preview🧐
 ![image](https://drive.google.com/uc?export=view&id=1Y59mnD_LMAUBzNL3r22GVF2e6JA28LRj)
 
-## Future Plans
+## Future Goals🤠
 
 
  - [ ] Add feature to see users in lobby
@@ -52,5 +48,14 @@ Client Side :
  
  
 
-> Feel free to share your views
 
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/agarwalamn/formme/master/static/avatar.gif" width="350"/>
+  <h3>
+    <sub>Built with ❤️ by
+      <a href="https://github.com/agarwalamn">agarwalamn</a>
+    </sub>
+  </h3>
+</div>
