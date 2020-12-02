@@ -6,7 +6,7 @@
 </div>
 
 A chatting application made while learning socket.io.
-Checkout on [netlify](https://5df8cee521353501881b507c--inspiring-clarke-25980c.netlify.com)
+Checkout on [netlify](https://gapshap.netlify.app/)
 
 > It was learning experience for me as I got to learn so many new things like :
 
